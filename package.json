@@ -1,0 +1,7 @@
+{
+    "name": "setup-node-repro",
+    "packageManager": "yarn@3.8.7",
+    "devDependencies": {
+        "typescript": "^4.0.0"
+    }
+}
